@@ -31,7 +31,6 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zenoss-094AB2?&style=for-the-badge&logo=Zenoss&logoColor=white" />
-    </a>
     <img src="https://img.shields.io/badge/-Zabbix-FF6600?&style=for-the-badge&logo=Zabbix&logoColor=white" />
 
 
@@ -52,9 +51,8 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
   <a href="https://www.solarwinds.com/certifications" target="_blank">
   <img src="https://img.shields.io/badge/-SolarWinds-F88900?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
-</a>
+  </a>
 
-</a>
 
 </div>
 
