@@ -14,26 +14,26 @@ I am a Data Center Operations professional transforming military precision and l
 My journey in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| IDS Configuration          | <a href="https://github.com/SeanCalhoun/IDS-Configuration">IDS Lab</a>|
+| Incident Response | <a href="https://github.com/SeanCalhoun/Incident-Response-and-Forensics">Detection Lab</a>|
+| Traffic Analysis | <a href="https://github.com/SeanCalhoun/Network-Security-Traffic-Analysis"> Network Security and Traffic Analysis Lab|
+| Elastic | <a href="https://github.com/SeanCalhoun/Elastic-SIEM"> SIEM Lab|
+| Azure / Sentinel (SIEM) | <a href="https://github.com/SeanCalhoun/Azure-Sentinel-SIEM-Honeypot-Home-Lab"> Azure Sentinel (SIEM) Honeypot Home Lab|
+| Vulnerability Management using Azure and Tenable | <a href="https://github.com/SeanCalhoun/Vulnerability-Management-Lab"> Vulnerability Management Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <a href="https://www.zenoss.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Zenoss-094AB2?&style=for-the-badge&logo=Zenoss&logoColor=white" />
-</a>
+    </a>
+    <img src="https://img.shields.io/badge/-Zabbix-FF6600?&style=for-the-badge&logo=Zabbix&logoColor=white" />
+
 
 </div>
 
@@ -59,7 +59,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://grow.google/certificates/cybersecurity/" target="_blank">
@@ -69,5 +69,15 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Elastic-SIEM
+- Azure-Sentinel-SIEM-Honeypot-Home-Lab 
+- Vulnerability-Management-Lab
+- Incident-Detection-and-Response-IDR
+- Network-Security-Traffic-Analysis
+- Security-Information-and-Event-Management-SIEM
+- Malware-Detection
+- Python-Security-Automation
+- Security-Policy-and-Compliance-Framework
+- Securing-a-Linux-Server 
+- IDS-Configuration
+
